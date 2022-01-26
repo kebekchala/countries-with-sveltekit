@@ -5,7 +5,7 @@
 				rel="external"
 				target="_blank"
 				class="underline"
-				href="https://williamssam.netlify.app">Williams Samuel</a
+				href="https://kebekchala.netlify.app">Kebek Chala</a
 			>
 		</p>
 	</div>
